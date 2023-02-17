@@ -1,0 +1,6 @@
+name: LifeSpan
+version: '${project.version}'
+main: win.oreo.lifespan.Main
+api-version: 1.19
+commands:
+  life:
